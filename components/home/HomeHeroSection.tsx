@@ -5,7 +5,6 @@ import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import Link from "next/link";
-import { GiAutoRepair } from "react-icons/gi";
 
 const images = ["/homepage2.png"];
 

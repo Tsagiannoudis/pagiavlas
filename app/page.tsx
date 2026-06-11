@@ -1,7 +1,7 @@
 import Image from "next/image";
 import HomeHeroSection from "@/components/home/HomeHeroSection";
 import OurServices from "@/components/home/OurServices";
-import UserParts from "@/components/home/UsedParts";
+import UsedParts from "@/components/home/UsedParts";
 import WhyUs from "@/components/home/WhyUs";
 
 
@@ -12,7 +12,7 @@ export default function Home() {
           <>
          <HomeHeroSection />
          <OurServices />
-          <UserParts />
+          <UsedParts />
           <WhyUs />
          </>
   );

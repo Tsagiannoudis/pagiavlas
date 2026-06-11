@@ -41,7 +41,7 @@ const OurServices = () => {
           Τι κάνουμε
         </p>
         <h2 className="text-white text-3xl md:text-4xl font-black uppercase mb-8">
-          Οι Υπηρεσιες μας
+          Οι Υπηρεσίες μας
         </h2>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-6">

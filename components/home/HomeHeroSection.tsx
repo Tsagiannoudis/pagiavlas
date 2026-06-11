@@ -39,7 +39,7 @@ const HomeHeroSection = () => {
                         Service με <span className="text-red-600">αξιοπιστια</span> <br />
                         Performance <span className="text-red-600">χωρις ορια</span>
                     </h1>
-                    <p className="text-lg md:text-1xl text-gray-300 mb-10 max-w-xl leading-relaxed border-l-4 border-red-600 pl-4">
+                    <p className="text-lg md:text-xl text-gray-300 mb-10 max-w-xl leading-relaxed border-l-4 border-red-600 pl-4">
                         Εξειδικευμένο συνεργείο μοτοσυκλετών με σύγχρονο εξοπλισμό και γνήσια ανταλλακτικά για κάθε τύπο μηχανής.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-5">

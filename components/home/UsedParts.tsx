@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-const UserParts = () => {
+const UsedParts = () => {
     return (
     <>
     <section className="py-16 bg-[#eeecec]">
@@ -50,4 +50,4 @@ const UserParts = () => {
   );
 };
 
-export default UserParts;
+export default UsedParts;
